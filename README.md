@@ -1,2 +1,2 @@
 # TextProcess
-Text processing for word frequencies
+Text processing for word frequencies. This is for making word clouds.
